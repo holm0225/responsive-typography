@@ -21,6 +21,7 @@ html {
 
 body {
   margin: 0;
+  padding: 1rem;
 }
 
 article {
@@ -54,12 +55,13 @@ blockquote {
 }
 
 article p {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  margin-top: 0;
+  margin-bottom: 1.3rem;
 }
 
 article ol {
-
+  margin-top: 0;
+  margin-bottom: 1.3rem;
 }
 
 @media only screen and (min-width: 38em) {
